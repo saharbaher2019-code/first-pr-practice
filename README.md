@@ -4,7 +4,7 @@ A tiny practice repo for learning the pull request workflow with Claude Code.
 
 ## What is this?
 
-This repo exists so you can practice the full loop: make a change on a branch, push it, and open a pull requst for review.
+This repo exists so you can practice the full loop: make a change on a branch, push it, and open a pull request for review.
 
 ## Getting started
 
